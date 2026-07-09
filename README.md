@@ -18,6 +18,8 @@ Source code for detecting L-shaped brackets using YOLOv8, integrated for the PBL
 * Python 3.8+
 * Ultralytics YOLOv8
 * OpenCV
+## Download Model Weights
+* **https://github.com/hoangleminhdq-automatic/YOLO-L-Bracket-Detection/releases/download/v1.0/best.pt** 
 
 ---
 *Hoang Le Minh - Mechatronics Engineering*
